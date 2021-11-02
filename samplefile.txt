@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML DOCUMENT</title>
+    </head>
+<body>
+ this is a web page , it has title "HTML DOCUMENT".
+</body>
+</html>
